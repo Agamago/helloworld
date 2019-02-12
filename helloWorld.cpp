@@ -1,7 +1,7 @@
 //Joey Sheridan
 //Hello World
 #include <iostream>
-using namespace std;
+using namespace std
 
 int main()
 {
